@@ -1,5 +1,16 @@
 # Changelog
 
+## [0.1.17](https://github.com/validator-labs/validator/compare/v0.1.16...v0.1.17) (2025-01-16)
+
+
+### Dependency Updates
+
+* **deps:** update build digest to 00de875 ([#460](https://github.com/validator-labs/validator/issues/460)) ([14f9f41](https://github.com/validator-labs/validator/commit/14f9f418d2c615634eb297588bfa6aff4eedda07))
+* **deps:** update build digest to 1af2678 ([#462](https://github.com/validator-labs/validator/issues/462)) ([13545f0](https://github.com/validator-labs/validator/commit/13545f0372d8643c9b2f963fb3ba39d6159de7e2))
+* **deps:** update build digest to 1b51737 ([#463](https://github.com/validator-labs/validator/issues/463)) ([e73fdcd](https://github.com/validator-labs/validator/commit/e73fdcdbf46fad120a9615a83e5112ea5f855e8b))
+* **deps:** update build digest to aa32dd3 ([#456](https://github.com/validator-labs/validator/issues/456)) ([2e21b90](https://github.com/validator-labs/validator/commit/2e21b907d9a91eb8f170d3857861278c0714c85f))
+* **deps:** update softprops/action-gh-release digest to c95fe14 ([#461](https://github.com/validator-labs/validator/issues/461)) ([1367896](https://github.com/validator-labs/validator/commit/13678968a80021950e46ca6872b7446e0b327db3))
+
 ## [0.1.16](https://github.com/validator-labs/validator/compare/v0.1.15...v0.1.16) (2024-12-17)
 
 
